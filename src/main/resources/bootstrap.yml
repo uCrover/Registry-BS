@@ -5,5 +5,6 @@ spring:
   cloud:
     config:
       uri: http://localhost:8090
-      #username: crover
-      #password: cr0v3r
+      username: nttdata
+      password: nttd4t4
+
