@@ -4,7 +4,8 @@ spring:
     #configuración del config-server
   cloud:
     config:
-      uri: https://bs-config-server.azurewebsites.net
-      username: nttdata
-      password: nttd4t4
+      uri: http://localhost:8090
+      #uri: https://config-server-app.azurewebsites.net
+      username: pr0j3ct
+      password: pr0j3ct
 
