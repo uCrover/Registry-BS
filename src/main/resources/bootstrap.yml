@@ -8,4 +8,3 @@ spring:
       #uri: https://config-server-app.azurewebsites.net
       username: pr0j3ct
       password: pr0j3ct
-
